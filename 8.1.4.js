@@ -3,7 +3,7 @@ method: get,post,put,delete
 url: /,user/1,post/new/?param=value
 headers: cookies,web browser info
 httpVersion: 1.0,1.1
-trailers: addplus http hdaders
+trailers: addplus http headers
 socket: listen socket object
 
 http response
