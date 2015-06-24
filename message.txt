@@ -1,22 +1,7 @@
-1357
-2468
-1357
-2468
-1357
-1357
-2468
-2468
-1357
-1357
-1357
-2468
-2468
-2468
-123
-123
-123
-123
-456
-456
-456
-456
+child process current dir :/home/oslet/learning/nodejs/test
+0: node
+1: /home/oslet/learning/nodejs/test/test1.js
+2: one
+3: two
+4: three
+5: four
