@@ -1,5 +1,5 @@
-child process current dir :/home/oslet/learning/nodejs
-0: /usr/bin/nodejs
+child process current dir :/home/oslet/learning/nodejs/test
+0: node
 1: /home/oslet/learning/nodejs/test/test1.js
 2: one
 3: two
